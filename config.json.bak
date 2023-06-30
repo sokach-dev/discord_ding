@@ -1,0 +1,38 @@
+{
+    "token": "",
+    "dingding": "",
+    "is_bot": false,
+    "coolq_url": "",
+    "coolq_token": "",
+    "proxy": "",
+    "toast": false,
+    "message_monitor": {
+        "user_id": {
+        },
+        "channel": [
+        ],
+        "channel_name": []
+    },
+    "user_dynamic_monitor": {
+        "user_id": {},
+        "server": []
+    },
+    "push": {
+        "QQ_group": [],
+        "QQ_user": [
+            [
+                997631700,
+                true,
+                false
+            ]
+        ]
+    },
+    "push_text": {
+        "message_format": "## Discord <user_display_name> <type>\n* 正文：<content>\n* 附件：<attachment>\n* 频道：<server_name> #<channel_name>\n* 时间：<time> <timezone>",
+        "user_dynamic_format": "【Discord <user_display_name> <type>】\n变更前：<before>\n变更后：<after>\n服务器：<server_name>\n时间：<time> <timezone>",
+        "category": {
+            "": "Others"
+        },
+        "replace": {}
+    }
+}
